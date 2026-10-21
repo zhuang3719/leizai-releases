@@ -11,7 +11,7 @@
   <a href="https://leizai.cc/opensource.html">开源说明</a>
 </p>
 
-<p align="center"><b>当前版本：v0.1.24</b></p>
+<p align="center"><b>当前版本见 <a href="https://github.com/zhuang3719/leizai-releases/releases/latest">Releases</a></b></p>
 
 ---
 
@@ -46,8 +46,6 @@
 ---
 
 ## 界面截图
-
-> 截图占位（客户端界面）—— 随仓上传时替换为真实截图。
 
 ![雷仔客户端 · 项目视图](docs/assets/app-projects.png)
 ![雷仔客户端 · 多雷影协作](docs/assets/app-conversation.png)
